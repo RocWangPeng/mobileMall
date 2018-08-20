@@ -29,10 +29,10 @@
 
 - 二维码预览
 
-![1534783807.png-1.5kB][1]
+![1534783807.png-1.5kB][5]
 
 
-[1]: http://static.zybuluo.com/wp0214/wtlvrh24zea72hts8g6bre8k/1534783807.png
+
 
 ## ScreenShot
 ![vueKoa00001.jpg-62.3kB][1] ![vueKoa00002.jpg-42.2kB][2]
@@ -44,3 +44,4 @@
   [2]: http://static.zybuluo.com/wp0214/maxckoc209snwjw59k3ojaa1/vueKoa00002.jpg
   [3]: http://static.zybuluo.com/wp0214/cb6zliyhb36l31pboz7vtv1v/vueKoa00003.jpg
   [4]: http://static.zybuluo.com/wp0214/i94kdo5mcfee0ca4hpnw1pdy/vueKoa00004.jpg
+  [5]: http://static.zybuluo.com/wp0214/wtlvrh24zea72hts8g6bre8k/1534783807.png
