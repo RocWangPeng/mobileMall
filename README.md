@@ -26,6 +26,11 @@
 - [ ] 权限管理
 
 ## preview
+- 二维码预览
+![1534783807.png-1.5kB][1]
+
+
+  [1]: http://static.zybuluo.com/wp0214/wtlvrh24zea72hts8g6bre8k/1534783807.png
 
 ## ScreenShot
 ![vueKoa00001.jpg-62.3kB][1] ![vueKoa00002.jpg-42.2kB][2]
