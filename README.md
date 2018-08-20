@@ -25,55 +25,16 @@ node+vue全栈
 - [x] 后台接口设置
 - [ ] 文章分类
 - [ ] 权限管理
-## 开发流程
-- 前端环境的搭建
-- 优雅引入Vant组件库
-- 移动端屏幕适配基础
-- 首页布局和路由设置
-- 首页搜索区域的布局
-- 首页轮播图的制作
-- easyMock和Axios的使用
-- Mock数据的使用flex布局
-- 商品推荐vue-awesome-swiper
-- vue-awesome-swiper 详讲1
-- vue-awesome-swiper 详讲2
-- 首页楼层区域布局
-- 楼层组件的封装和watch使用
-- 楼层组件的完善
-- Filter在实战中的使用
-- 首页热卖模块的Van-list组件使用
-- 编写后台服务接口配置文件
-- 安装Koa2到项目中来
-- 安装MongoDB数据库
-- Koa用Mongoose连接数据库（1）
-- Koa用Mongoose连接数据库（2）
-- Mongoose的Schema建模介绍
-- 载入Schema和插入查出数据
-- 打造安全的用户密码加密机制
-- 编写注册页面前端视图
--  Koa2的用户操作的路由模块化
-- 打通注册用户的前后端通讯
-- 用户注册数据库操作
-- 注册的防重复提交
-- 注册时的前端验证
-- Vue的登录界面制作和路由配置
-- 登录的服务端业务逻辑代码
-- 登录的前端交互效果制作和登录状态存储
-- 商品详细数据的提纯操作
-- 批量插入商品详情数据到MongoDB中
-- 商品大类的Shema建立和导入数据库
-- 商品子类的Shema建立和导入数据库
-- 编写商品详情页的数据接口
-- 商品详情页路由的制作和参数的传递
-- 商品详情的页面模板编写-1
-- 商品详情的页面模板编写-2
-- 商品详情的页面模板编写-3
-- 分类页面的数据读取
-- 补充商品详细页的滑动切换和吸顶效果
-- 商品列表页的布局-1
-- 商品列表页的大类交互效果制作
-- 一二级分类的联动效果制作
-- 商品列表页上拉加载效果的实现
-- 商品列表页下拉刷新效果的实现
-- 商品列表的商品数据读取
+
+## preview
+
 ## ScreenShot
+![vueKoa00001.jpg-62.3kB][1] ![vueKoa00002.jpg-42.2kB][2]
+
+![vueKoa00003.jpg-36.8kB][3] ![vueKoa00004.jpg-30.2kB][4]
+
+
+  [1]: http://static.zybuluo.com/wp0214/sq3jx8uggx8tn7uo25u88sx1/vueKoa00001.jpg
+  [2]: http://static.zybuluo.com/wp0214/maxckoc209snwjw59k3ojaa1/vueKoa00002.jpg
+  [3]: http://static.zybuluo.com/wp0214/cb6zliyhb36l31pboz7vtv1v/vueKoa00003.jpg
+  [4]: http://static.zybuluo.com/wp0214/i94kdo5mcfee0ca4hpnw1pdy/vueKoa00004.jpg
